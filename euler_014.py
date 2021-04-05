@@ -39,4 +39,4 @@ while n < 1000000:
             biggestN = n
     n += 1
 
-print("xxxx", time.time() - start)
+print(biggestN, time.time() - start)
